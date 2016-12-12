@@ -3,7 +3,7 @@ In this tutorial, you will learn how to create and accunt on DSX and how to crea
 
 # Instructions:
 
-#Step 1. Get on IBM Data Science Experience (DSX).
+#Step 1. Get on DSX.
 ##Create an account.
 
 1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
