@@ -1,5 +1,5 @@
 # Getting started with IBM's Data Science Experience (DSX).
-In this tutorial, you will learn how to create and accunt on DSX and how to create a project.
+In this tutorial, you will learn how to create and account on DSX and how to create a project.
 
 # Instructions:
 
@@ -8,11 +8,13 @@ In this tutorial, you will learn how to create and accunt on DSX and how to crea
 
 1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
 
-2.  Click the signup button on the top right
+2.  Click the `Sign Up` button on the top right
 
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSX Sign On.png">
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/sign-up.png"/>
 
-3. If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email. 
+3. If you have a `Bluemix Account` you can click continue with Bluemix credentials (bottom right of the screen). Otherwise, accept the terms and click create your Bluemix account and enter your email.
+
+>  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-account.png"/>
 
 4. You should get an email from "ibmacct" with your IBMid Confirmation code
 
@@ -46,8 +48,8 @@ In this tutorial, you will learn how to create and accunt on DSX and how to crea
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-new-project.png"/>
 
-3. Type a name for your project. For instance, "Word2Vec for Text Data". A Spark service and an object storage will be automatically selected as well as a container with a defualt name. A container is a directory on the object storage. Click on Create.
+3. Type a name for your project. For instance, "proj1". A Spark service and an object storage will be automatically selected as well as a container with a defualt name. A container is a directory on your object storage. Click on Create.
 
- > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
+ > You are now in your new project where you can create notebooks and import data assets as well as add collaborators.
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
