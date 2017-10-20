@@ -50,4 +50,4 @@ In this tutorial, you will learn how to create and accunt on DSX and how to crea
 
  > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
 
- >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/new-project.png"/>
+ >  <img src="https://github.com/IBMDataScience/getting-started/blob/master/images/new-project.png"/>
