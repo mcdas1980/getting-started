@@ -3,9 +3,9 @@ In this tutorial, you will learn how to create and account on DSX and how to cre
 
 # Instructions:
 
-#Step 1. Get on DSX.
+# Step I. Get on DSX.
 
-##Create an account.
+## Create an account.
 
 1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
 
@@ -39,7 +39,7 @@ In this tutorial, you will learn how to create and account on DSX and how to cre
 
 >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/landing.png"/>
 
-#Step 2. Create a project 
+# Step II. Create a project 
 
 1. Click on the left hand side "hamburger" icon and then click on My Projects to see a list of your projects. You should only see a default project.
 
